@@ -1,0 +1,31 @@
+/* ct100_header1部分 */
+.ct100_header1 {
+    height: 50px;
+    background-color: #ff841d;
+    border: 1px solid #bdbdbd;
+    .logo{
+        padding: 12px;
+        width: 75%;
+        margin-left: 6px;
+        a{
+            
+            img {
+                max-width: 185px;
+                max-height: 25px;
+                overflow: hidden;
+            }
+        }
+    }
+    .appdown{
+        padding: 7px;
+        img {
+            max-height: 34px;
+            max-width: 34px;
+            overflow: hidden;
+        }
+    }
+}
+/* 搜索框 */
+.search {
+    height: 30px;
+}

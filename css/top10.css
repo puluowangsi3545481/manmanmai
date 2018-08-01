@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* ct100_header1部分 */
+.ct100_header1 {
+  height: 50px;
+  background-color: #ff841d;
+  border: 1px solid #bdbdbd;
+}
+
+.ct100_header1 .logo {
+  padding: 12px;
+  width: 75%;
+  margin-left: 6px;
+}
+
+.ct100_header1 .logo a img {
+  max-width: 185px;
+  max-height: 25px;
+  overflow: hidden;
+}
+
+.ct100_header1 .appdown {
+  padding: 7px;
+}
+
+.ct100_header1 .appdown img {
+  max-height: 34px;
+  max-width: 34px;
+  overflow: hidden;
+}
+
+/* 搜索框 */
+.search {
+  height: 30px;
+}
+/*# sourceMappingURL=top10.css.map */
